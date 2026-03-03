@@ -1,0 +1,31 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0008-8971-1437",
+            "affiliation": "University of Michigan",
+            "name": "Szymanski, Eric"
+        },
+        {
+            "orcid": "0000-0002-8439-6465",
+            "affiliation": "University of Michigan",
+            "name": "Hetland, Eric"
+        },
+        {
+            "orcid": "0000-0002-0408-5537",
+            "affiliation": "Independent Researcher",
+            "name": "Szymanski, Luke"
+        }
+    ],
+
+    "license": "MIT",
+
+    "title": "Gentoo: Geodetic Network Smoother, 2nd Generation",
+
+    "keywords": [
+      "Satellite Geodesy", 
+      "Spatial Analysis",
+      "Geodetic Data Fusion",
+      "Bayesian Inference",
+      "Statistical Methods"
+    ],
+}
