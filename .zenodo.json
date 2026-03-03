@@ -1,31 +1,30 @@
 {
-    "creators": [
-        {
-            "orcid": "0009-0008-8971-1437",
-            "affiliation": "University of Michigan",
-            "name": "Szymanski, Eric"
-        },
-        {
-            "orcid": "0000-0002-8439-6465",
-            "affiliation": "University of Michigan",
-            "name": "Hetland, Eric"
-        },
-        {
-            "orcid": "0000-0002-0408-5537",
-            "affiliation": "Independent Researcher",
-            "name": "Szymanski, Luke"
-        }
-    ],
-
-    "license": "MIT",
-
-    "title": "Gentoo: Geodetic Network Smoother, 2nd Generation",
-
-    "keywords": [
-      "Satellite Geodesy", 
-      "Spatial Analysis",
-      "Geodetic Data Fusion",
-      "Bayesian Inference",
-      "Statistical Methods"
-    ],
+  "title": "Gentoo: Geodetic Network Smoother, 2nd Generation",
+  "upload_type": "software",
+  "description": "Gentoo is a multi-modal geodetic data fusion software.",
+  "license": "mit",
+  "creators": [
+    {
+      "orcid": "0009-0008-8971-1437",
+      "affiliation": "University of Michigan",
+      "name": "Szymanski, Eric"
+    },
+    {
+      "orcid": "0000-0002-8439-6465",
+      "affiliation": "University of Michigan",
+      "name": "Hetland, Eric"
+    },
+    {
+      "orcid": "0000-0002-0408-5537",
+      "affiliation": "Independent Researcher",
+      "name": "Szymanski, Luke"
+    }
+  ],
+  "keywords": [
+    "Satellite Geodesy",
+    "Spatial Analysis",
+    "Geodetic Data Fusion",
+    "Bayesian Inference",
+    "Statistical Methods"
+  ]
 }
