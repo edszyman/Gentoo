@@ -1,4 +1,4 @@
-[![DOI](https://sandbox.zenodo.org/badge/1154670809.svg)](https://handle.test.datacite.org/10.5072/zenodo.466156)
+[[![DOI](https://sandbox.zenodo.org/badge/1154670809.svg)](https://handle.test.datacite.org/10.5072/zenodo.466156)](https://doi.org/10.5281/zenodo.18850261)
 
 # Gentoo
 
